@@ -1,3 +1,5 @@
+This fork has been merged to the original project: https://github.com/Walt-H/docker-chromedriver/commit/9a5180ac4b60f8d290ab3f54e75676d1442f3fab
+
 # Docker container for creating a ChromeDriver server
 
 Includes
